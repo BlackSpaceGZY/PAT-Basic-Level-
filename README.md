@@ -13,3 +13,7 @@ I'm a college student
 |1006|[ 换个格式输出整数 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1006/1006.cpp) |2019/3/10| 15 | 15 |  
 |1007|[ 素数对猜想 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1007/1007.cpp) |2019/3/10| 20 | 20 |  
 |1008|[ 数组元素循环右移问题  ](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1008/1008.cpp) |2019/3/10| 20 | 20 |  
+|1009|[ 说反话  ](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1009/1009.cpp) |2019/3/11| 20 | 20 |  
+|1010|[ 一元多项式求导  ](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1010/1010.cpp) |2019/3/11| 25 | 25 |  
+|1011|[ A+B 和 C  ](https://pintia.cn/problem-sets/994805260223102976/problems/994805312417021952)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1011/1011.cpp) |2019/3/11| 15 | 15 |  
+|1012|[ 数字分类  ](https://pintia.cn/problem-sets/994805260223102976/problems/994805311146147840)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1012/1012.cpp) |2019/3/11| 20 | 20 |  
