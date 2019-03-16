@@ -20,3 +20,4 @@ I'm a college student
 |1013|[ 数素数 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805309963354112)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1013/1013.cpp) |2019/3/12| 20 | 20 |  
 |1014|[ 福尔摩斯的约会 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1014/1014.cpp) |2019/3/13| 20 | 20 |  
 |1015|[ 德才论 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1015/1015.cpp) |2019/3/15| 25 | 25 |  
+|1016|[ 部分A+B ](https://pintia.cn/problem-sets/994805260223102976/problems/994805306310115328)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1016/1016.cpp) |2019/3/16| 15 | 15 |  
