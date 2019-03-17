@@ -23,3 +23,5 @@ I'm a college student
 |1016|[ 部分A+B ](https://pintia.cn/problem-sets/994805260223102976/problems/994805306310115328)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1016/1016.cpp) |2019/3/16| 15 | 15 |  
 |1017|[ A除以B ](https://pintia.cn/problem-sets/994805260223102976/problems/994805305181847552)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1017/1017.cpp) |2019/3/16| 20 | 20 |  
 |1018|[ 锤子剪刀布 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805304020025344)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1018/1018.cpp) |2019/3/16| 20 | 20 |  
+|1019|[ 数字黑洞 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1019/1019.cpp) |2019/3/17| 20 | 20 |  
+|1020|[ 月饼 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1020/1020.cpp) |2019/3/17| 25 | 25 |  
