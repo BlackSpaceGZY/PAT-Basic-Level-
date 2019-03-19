@@ -25,3 +25,6 @@ I'm a college student
 |1018|[ 锤子剪刀布 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805304020025344)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1018/1018.cpp) |2019/3/16| 20 | 20 |  
 |1019|[ 数字黑洞 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1019/1019.cpp) |2019/3/17| 20 | 20 |  
 |1020|[ 月饼 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1020/1020.cpp) |2019/3/17| 25 | 25 |  
+|1021|[ 个位数统计 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1021/1021.cpp) |2019/3/19| 15 | 15 |  
+|1022|[ D进制的A+B ](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1022/1022.cpp) |2019/3/19| 20 | 20 |  
+|1023|[ 组个最小数 ](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560)|[C++](https://github.com/BlackSpaceGZY/PAT-Basic-Level-/blob/master/Code/1023/1023.cpp) |2019/3/19| 20 | 20 |  
